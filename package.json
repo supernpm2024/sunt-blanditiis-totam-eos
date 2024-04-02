@@ -1,18 +1,60 @@
 {
-  "name": "@utilcode/simple-template-advanced",
+  "name": "@supernpm2024/sunt-blanditiis-totam-eos",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "description": "Generate unique and beautiful colors from any texts or numbers",
+  "author": "ellentea",
+  "main": "dist/uniqolor.js",
+  "types": "src/index.d.ts",
+  "keywords": [
+    "uniqolor",
+    "uniqcolor",
+    "color",
+    "unique",
+    "random",
+    "hue",
+    "saturate",
+    "lightness",
+    "lightweight",
+    "uuid",
+    "generate"
+  ],
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/eslint-parser": "^7.17.0",
+    "@babel/preset-env": "^7.16.11",
+    "@rollup/plugin-node-resolve": "^13.1.3",
+    "babel-jest": "^27.5.1",
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jasmine": "^4.1.3",
+    "husky": "^7.0.4",
+    "jest": "^27.5.1",
+    "rollup": "^2.79.1",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-terser": "^7.0.2"
   },
   "dependencies": {
-    "axios": "^1.6.8"
-  }
+    "@supernpm2024/cupiditate-sed-aliquam-quae": "^1.0.0",
+    "@supernpm2024/dignissimos-accusamus-libero-cumque": "^1.0.0",
+    "@supernpm2024/laboriosam-ipsam-assumenda-maiores": "^1.0.0",
+    "@supernpm2024/legendary-broccoli": "^1.0.0",
+    "@supernpm2024/modi-consequuntur-mollitia-nesciunt": "^1.0.0",
+    "@supernpm2024/modi-quod-recusandae-placeat": "^1.0.0",
+    "@supernpm2024/officia-eum-pariatur-temporibus": "^1.0.0",
+    "@supernpm2024/praesentium-ipsa-odio-ullam": "^1.0.0",
+    "@supernpm2024/similique-occaecati-laborum-saepe": "^1.0.0",
+    "@supernpm2024/tenetur-tempore-ex-illo": "^1.0.0",
+    "@supernpm2024/unde-delectus-corporis-commodi": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supernpm2024/sunt-blanditiis-totam-eos.git"
+  },
+  "homepage": "https://github.com/supernpm2024/sunt-blanditiis-totam-eos/#readme",
+  "bugs": {
+    "url": "https://github.com/supernpm2024/sunt-blanditiis-totam-eos/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
